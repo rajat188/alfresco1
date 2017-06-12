@@ -1,0 +1,13 @@
+2:38:24 PM: JAVA_HOME 
+
+11:07:26 AM: JAVA_OPTS                  
+-Xms512m -Xmx1024m 
+
+11:08:44 AM: MAVEN 
+
+11:08:46 AM: MAVEN_HOME 
+
+11:09:06 AM: MAVEN_OPTS
+-Xms256m -Xmx512m 
+
+11:09:17 AM: PATH 
